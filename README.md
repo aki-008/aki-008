@@ -12,14 +12,14 @@
 ## 🚀 Featured Projects:
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://github.com/SHASWATSINGH3101/DevEcho">
         <b>DevEcho</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <p>AI-powered social media assistant for LinkedIn content generation using AI-driven data collection and processing.</p>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://github.com/SHASWATSINGH3101/GUARDIAN-EYE.AI">
         <b>GUARDIAN-EYE.AI</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
