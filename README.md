@@ -3,12 +3,12 @@
 🌱 I'm currently learning Langchain, RLHF<br>👯 I'm looking to collaborate on Legal Document Generation using AI<br>👨‍💻 All of my projects are available at https://github.com/SHASWATSINGH3101<br>📝 I write articles on https://medium.com/@shaswatsingh<br>💬 Ask me about Large language models<br>📫 How to reach me shaswatsingh910@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/shaswat-singh-43821826a](https://www.linkedin.com/in/shaswat-singh-43821826a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswat-singh-43821826a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shaswatsingh)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/TechnicianHot154)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaswatsingh910)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/singh008)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaswatsingh910@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](gmailto:shaswatsingh910@gmail.com)
 
 
 
