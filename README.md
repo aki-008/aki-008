@@ -49,8 +49,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SHASWATSINGH3101&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 🧩 Contribution Grid
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shaswat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SHASWATSINGH3101&theme=tokyo-night&hide_border=true" /></a>
+### 🧩 GitHub Contribution Heatmap
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHASWATSINGH3101&theme=github_dark)
 
 ---
 
