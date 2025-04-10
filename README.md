@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRvb3NtemdkbWY2dXowNGw3cDhpY213Z3pweW93azVpaHc3dTN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z51lcokY5g89BMblXF/giphy.gif"  />
 🌱 I'm currently learning Langchain, RLHF<br>👯 I'm looking to collaborate on Legal Document Generation using AI<br>👨‍💻 All of my projects are available at https://github.com/SHASWATSINGH3101<br>📝 I write articles on https://medium.com/@shaswatsingh<br>💬 Ask me about Large language models<br>📫 How to reach me shaswatsingh910@gmail.com
 
 ## 🌐 Socials:
@@ -9,7 +10,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/singh008)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaswatsingh910@gmail.com)
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRvb3NtemdkbWY2dXowNGw3cDhpY213Z3pweW93azVpaHc3dTN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z51lcokY5g89BMblXF/giphy.gif"  />
+
 
 ## 🚀 Featured Projects:
 <table>
