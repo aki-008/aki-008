@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaswatsingh910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaswatsingh910" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaswat singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswat singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/singh008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/singh008" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaswat-singh-43821826a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswat-singh-43821826a" height="30" width="40" /></a>
+<a href="https://kaggle.com/singh008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="singh008" height="30" width="40" /></a>
 <a href="https://medium.com/@shaswatsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaswatsingh" height="30" width="40" /></a>
 <a href="https://discord.gg/shaswat_singh." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shaswat_singh." height="30" width="40" /></a>
 </p>
