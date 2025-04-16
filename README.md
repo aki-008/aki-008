@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh3azBma3d1ZDQyNHF6eG81d2dyYWF4czZkN2JpMjJ3OTNqNGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" />
+<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh3azBma3d1ZDQyNHF6eG81d2dyYWF4czZkN2JpMjJ3OTNqNGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" />
 🌱 I'm currently learning Langchain, RLHF<br>👯 I'm looking to collaborate on Legal Document Generation using AI<br>👨‍💻 All of my projects are available at https://github.com/SHASWATSINGH3101<br>📝 I write articles on https://medium.com/@shaswatsingh<br>💬 Ask me about Large language models<br>📫 How to reach me shaswatsingh910@gmail.com
 
 ## 🌐 Socials:
