@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I'm currently learning Langchain, RLHF<br>👯 I'm looking to collaborate on Legal Document Generation using AI<br>👨‍💻 All of my projects are available at https://github.com/SHASWATSINGH3101<br>📝 I write articles on https://medium.com/@shaswatsingh<br>💬 Ask me about Large language models<br>📫 How to reach me shaswatsingh910@gmail.com
+🌱 I'm currently learning Langchain, RLHF<br>👯 I'm looking to collaborate on Legal Document Generation using AI<br>👨‍💻 All of my projects are available at https://github.com/aki-008<br>📝 I write articles on https://medium.com/@shaswatsingh<br>💬 Ask me about Large language models<br>📫 How to reach me shaswatsingh910@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswat-singh-43821826a)
