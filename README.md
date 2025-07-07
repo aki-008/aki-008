@@ -16,14 +16,14 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <a href="https://github.com/SHASWATSINGH3101/DevEcho">
+      <a href="https://github.com/aki-008/DevEcho">
         <b>DevEcho</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <p>AI-powered social media assistant for LinkedIn content generation using AI-driven data collection and processing.</p>
       </a>
     </td>
     <td align="center" width="30%">
-      <a href="https://github.com/SHASWATSINGH3101/GUARDIAN-EYE.AI">
+      <a href="https://github.com/aki-008/GUARDIAN-EYE.AI">
         <b>GUARDIAN-EYE.AI</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <p>Real-time violence detection system for urban safety using AI and computer vision.</p>
@@ -32,14 +32,14 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/SHASWATSINGH3101/CSVision">
+      <a href="https://github.com/aki-008/CSVision">
         <b>CSVision</b><br>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
         <p>Web tool for analyzing CSV datasets using AI-powered natural language queries and Groq's LLMs.</p>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SHASWATSINGH3101/Wanderlust">
+      <a href="https://github.com/aki-008/Wanderlust">
         <b>Wanderlust</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <p>AI-powered travel itinerary generator for personalized travel recommendations.</p>
@@ -48,14 +48,14 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/SHASWATSINGH3101/Ollama-Hosting">
+      <a href="https://github.com/aki-008/Ollama-Hosting">
         <b>Ollama-Hosting</b><br>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
         <p>Run Ollama on weak computers using Kaggle for free GPU hosting with Ngrok tunneling.</p>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SHASWATSINGH3101/Git_RAG">
+      <a href="https://github.com/aki-008/Git_RAG">
         <b>Git_RAG</b><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <p>Retrieval-Augmented Generation system for GitHub repositories to answer code questions.</p>
@@ -71,24 +71,24 @@
 <br>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHASWATSINGH3101/SHASWATSINGH3101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHASWATSINGH3101/SHASWATSINGH3101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SHASWATSINGH3101/SHASWATSINGH3101/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aki-008/aki-008/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aki-008/aki-008/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aki-008/aki-008/output/pacman-contribution-graph.svg">
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHASWATSINGH3101&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHASWATSINGH3101&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHASWATSINGH3101&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aki-008&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aki-008&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aki-008&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHASWATSINGH3101&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aki-008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHASWATSINGH3101&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aki-008&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHASWATSINGH3101&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aki-008&icon=2&color=4)](https://visitcount.itsvg.in)
