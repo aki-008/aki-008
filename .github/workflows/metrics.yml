@@ -46,9 +46,3 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
 
           plugin_traffic: yes
-
-          plugin_screenshot: yes
-          plugin_screenshot_url: https://shaswatsinghsite.vercel.app/
-          plugin_screenshot_selector: body
-          plugin_screenshot_mode: image
-          plugin_screenshot_viewport: '{ "width": 1280, "height": 1280 }'
