@@ -1,37 +1,22 @@
 <table width="100%">
   <tr>
-    <!-- LEFT COLUMN: Your Metrics -->
     <td width="50%" valign="top">
       <img src="github-metrics.svg" alt="Metrics" width="100%" />
     </td>
-    
-    <!-- RIGHT COLUMN: GIFs & Shields -->
     <td width="50%" valign="top">
       <div align="center">
-        <!-- First GIF (Golden Forest) -->
-        <img src="golden-forest.gif" width="100%" alt="Golden Forest GIF" />
-        
+        <img src="golden-forest.gif" width="100%" alt="Golden Forest" />
         <br><br>
-
-        <!-- Second GIF (Twitter Animation) -->
-        <!-- Make sure the src name matches exactly what you named the uploaded file -->
-        <img src="twitter-animation.gif" width="100%" alt="Twitter Animation GIF" />
-        
+        <img src="twitter-animation.gif" width="100%" alt="Twitter Animation" />
         <br><br>
-
-        <!-- Third GIF (Chainsaw Man) -->
-        <img src="chainsaw-man.gif" width="100%" alt="Chainsaw Man GIF" />
+        <img src="chainsaw-man.gif" width="100%" alt="Chainsaw Man" />
       </div>
-      
       <br>
-
-      <!-- The Shields -->
       <div align="left">
         <b>Languages</b><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <br><br>
-        
         <b>AI / ML</b><br>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
@@ -51,7 +36,6 @@
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
         <img src="https://img.shields.io/badge/SHAP-000000?style=flat-square" alt="SHAP" />
         <br><br>
-
         <b>Backend / Fullstack</b><br>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
@@ -63,13 +47,11 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <br><br>
-
         <b>Databases</b><br>
         <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square" alt="Qdrant" />
         <br><br>
-
         <b>DevOps / Tools</b><br>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
