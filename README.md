@@ -6,8 +6,6 @@
     <td width="50%" valign="top">
       <div align="center">
         <img src="golden-forest.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
-        <br>
-        <img src="chainsaw-man.gif" width="100%" alt="Chainsaw Man" style="padding: 20px;" />
       </div>
       <br>
       <div align="left">
