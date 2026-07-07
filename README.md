@@ -13,7 +13,7 @@
         <a href="mailto:Shaswatsingh910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://linkedin.com/in/shaswat-singh-43821826a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="https://github.com/aki-008"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="YOUR_MEDIUM_LINK_HERE"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+        <a href="https://medium.com/@Akio08"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
         <a href="https://portfolio-website-nu-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
         <br><br>
         <b>Languages</b><br>
