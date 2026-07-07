@@ -7,8 +7,6 @@
       <div align="center">
         <img src="golden-forest.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
         <br>
-        <img src="twitter-animation.gif" width="100%" alt="Twitter Animation" style="padding: 20px;" />
-        <br>
         <img src="chainsaw-man.gif" width="100%" alt="Chainsaw Man" style="padding: 20px;" />
       </div>
       <br>
