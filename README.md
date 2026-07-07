@@ -68,10 +68,21 @@
         <img src="https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender" alt="blender" />
         <br><br>
         <b>Certifications</b><br>
-        <img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning Specialization" /> <br>
-        <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Deep Learning Specialization" /> <br>
-        <img src="https://img.shields.io/badge/Oracle-OCI%202025%20Gen%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI 2025 Gen AI Professional" /> <br>
-        <img src="https://img.shields.io/badge/Oracle-OCI%202025%20AI%20Foundations%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI 2025 AI Foundations Associate" /> <br>
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3XX1VB8YLEK4" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning Specialization" />
+</a> <br>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JZ9E9TLOMRK8" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Deep Learning Specialization" />
+</a> <br>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3C5CC85EB92C5F5826B8C6BF3BD1D91BB5BC2663AA7A2B11E82A04F2628635D3" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-OCI%202025%20Gen%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI 2025 Gen AI Professional" />
+</a> <br>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CFCF02B2E2C302FE86748753D91B062DCDB4FCE269E5D87A48EDA29A15C6EA3" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-OCI%202025%20AI%20Foundations%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI 2025 AI Foundations Associate" />
+</a> <br>
       </div>
     </td>
   </tr>
