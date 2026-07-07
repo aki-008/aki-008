@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }] # Once daily (recommended)
-  workflow_dispatch: # Allow manual run
-  push: { branches: ["master", "main"] }
+  schedule:
+    - cron: "0 */3 * * *" # Runs every 3 hours
+  workflow_dispatch: # Allows manual run
 
 jobs:
   github-metrics:
@@ -10,7 +10,52 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Cycle GIF in README
+        shell: python
+        run: |
+          import os
+
+          # Your complete list of GIFs in the root directory
+          gif_list = [
+              "chainsaw-man.gif",
+              "fish-gif-fish.gif",
+              "golden-forest.gif",
+              "jp-autumn.gif",
+              "jp-sky.gif",
+              "rain.gif",
+              "shirne-maiden.gif",
+              "torii-gate.gif"
+          ]
+
+          readme_file = "README.md"
+
+          if os.path.exists(readme_file):
+              with open(readme_file, "r", encoding="utf-8") as f:
+                  content = f.read()
+              
+              # Find the current GIF and replace it with the next one in the list
+              for i, gif in enumerate(gif_list):
+                  if gif in content:
+                      next_gif = gif_list[(i + 1) % len(gif_list)]
+                      content = content.replace(gif, next_gif)
+                      break
+              
+              with open(readme_file, "w", encoding="utf-8") as f:
+                  f.write(content)
+
+      - name: Commit and push updated README
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: cycle README gif"
+          git push
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: aki-008
