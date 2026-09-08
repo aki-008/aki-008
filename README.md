@@ -5,7 +5,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="rain.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
+        <img src="shirne-maiden.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
       </div>
       <br>
       <div align="left">
