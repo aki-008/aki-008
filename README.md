@@ -5,7 +5,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="torii-gate.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
+        <img src="chainsaw-man.gif" width="100%" alt="Golden Forest" style="padding: 20px;" />
       </div>
       <br>
       <div align="left">
