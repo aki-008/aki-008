@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ and SWE . Currently learning  日本語</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1048 Commits
+                            1052 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,14 +245,14 @@ and SWE . Currently learning  日本語</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.85755567623957" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="194.85755567623957" y="0" width="102.64963375346404" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="297.5071894297036" y="0" width="90.91569688870337" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="388.422886318407" y="0" width="40.36478233739789" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="428.7876686558049" y="0" width="13.900105859049589" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.6877745148545" y="0" width="8.056027611419603" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.7438021262741" y="0" width="7.842605457200475" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.58640758347457" y="0" width="1.4135924165254676" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.0012605300375" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="184.0012605300375" y="0" width="102.970854085962" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="286.97211461599954" y="0" width="84.86795179241223" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="371.84006640841176" y="0" width="37.67970239193261" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="409.51976880034437" y="0" width="28.584055832257274" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.1038246326017" y="0" width="12.975465781221176" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.07929041382283" y="0" width="7.601149849351289" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.68044026317415" y="0" width="1.3195597368259238" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -264,7 +264,7 @@ and SWE . Currently learning  日本語</div>
                                 Python
                             </div>
                             <small>
-                                <div>1.18 MB</div>
+                                <div>1.20 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -281,12 +281,12 @@ and SWE . Currently learning  日本語</div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                JavaScript
                             </div>
                             <small>
-                                <div>84.4 kB</div>
+                                <div>185 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +297,7 @@ and SWE . Currently learning  日本語</div>
                                 CSS
                             </div>
                             <small>
-                                <div>47.6 kB</div>
+                                <div>49.4 kB</div>
                             </small>
                         </div>
                     </section>
@@ -310,7 +310,7 @@ and SWE . Currently learning  日本語</div>
                                 Svelte
                             </div>
                             <small>
-                                <div>623 kB</div>
+                                <div>669 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -327,12 +327,12 @@ and SWE . Currently learning  日本語</div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Java
                             </div>
                             <small>
-                                <div>48.9 kB</div>
+                                <div>84.4 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2667,7 +2667,7 @@ and SWE . Currently learning  日本語</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2026, 21:35:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2026, 02:24:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
